@@ -30,6 +30,6 @@ Swagger доступен по адресу: `http://localhost:3000/docs`
 
 ## Адрес для тестирования
 
-- **List Binding**: `http://nest.ank.one/list-binding`
-- **Profile**: `http://nest.ank.one/profile`
-- **URL Validation**: `http://nest.ank.one/url-validation`
+- **List Binding**: `POST http://nest.ank.im/list-binding`
+- **Profile**: `GET http://nest.ank.im/profile`
+- **URL Validation**: `POST http://nest.ank.im/url-validation`
