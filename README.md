@@ -26,10 +26,11 @@ REST API приложение на NestJS с тремя основными мо�
 
 ## API документация
 
-Swagger доступен по адресу: `http://localhost:3000/docs`
+Swagger доступен по адресу: http://localhost:3000/docs или https://nest.ank.im/docs
 
 ## Адрес для тестирования
 
-- **List Binding**: `POST http://nest.ank.im/list-binding`
-- **Profile**: `GET http://nest.ank.im/profile`
-- **URL Validation**: `POST http://nest.ank.im/url-validation`
+- **List Binding**: `POST` https://nest.ank.im/list-binding
+- **Profile**: `GET` https://nest.ank.im/profile
+- **URL Validation**: `POST` https://nest.ank.im/url-validation
+
